@@ -1,3 +1,3 @@
-##Personal settings for tmux
+## Personal settings for tmux
 
 key bindings and needed status settings
